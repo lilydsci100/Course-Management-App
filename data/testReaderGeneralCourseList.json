@@ -1,0 +1,21 @@
+{
+  "name": "My course list",
+  "Courses": [
+    {
+      "CourseType": "CPSC",
+      "CourseNum": "110",
+      "ProfessorInformation": "Megan hello.cpsc@gmail.com",
+      "OfficeHourLocation": "AMS",
+      "OfficeHourTime": "MWF 6pm",
+      "GradeWeight": "assignment 10%,midterm 30%,final 60%"
+    },
+    {
+      "CourseType": "MATH",
+      "CourseNum": "220",
+      "ProfessorInformation": "Logan logan.math220@gmail.com",
+      "OfficeHourLocation": "DMP",
+      "OfficeHourTime": "TW 1pm-2pm",
+      "GradeWeight": "assignment:15%,Matlab:5%,midterm:25%,final:55%"
+    }
+  ]
+}

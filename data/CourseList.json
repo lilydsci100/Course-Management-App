@@ -1,0 +1,11 @@
+{
+    "name": "My Course List",
+    "Courses": [{
+        "ProfessorInformation": "111",
+        "OfficeHourTime": "111",
+        "CourseNum": "111",
+        "CourseType": "cs112",
+        "GradeWeight": "111",
+        "OfficeHourLocation": "111"
+    }]
+}
